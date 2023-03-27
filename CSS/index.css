@@ -492,12 +492,11 @@ a {
   width: 100%;
 }
 /* Reliable_Solution start here */
-#Meet_with_Expert{
+#Meet_with_Expert {
   position: relative;
 }
-#Meet_with_Expert .meet_expo{
+#Meet_with_Expert .meet_expo {
   width: 100%;
-
 }
 #Meet_with_Expert img {
   width: 100%;
@@ -507,12 +506,12 @@ a {
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
-  padding-top:80px ;
+  padding-top: 80px;
   padding-bottom: 221px;
 }
 .meet_Expert_image_desgin {
-  width: 100%;
-  height: 374px;
+  /* width: 100%; */
+  max-height: 374px;
   border-radius: 10 10 10 0;
   background-color: #30344e;
   position: relative;
@@ -520,7 +519,6 @@ a {
 #Meet_with_Expert .meet_Expert_image_desgin img {
   width: 100%;
   overflow: hidden;
- 
 }
 .expert_info {
   width: 70%;
@@ -528,7 +526,7 @@ a {
   border-radius: 0px 10px 0px 0px;
   padding: 22px !important;
   position: absolute;
-  bottom: -47px;
+  bottom: -123px;
 }
 .expert_info h3 {
   font-family: popines;
@@ -552,8 +550,8 @@ a {
 .expert_info_cross .button_ex {
   position: absolute;
   right: 15px;
-  bottom: 0;
-  width: 20%;
+  bottom: -63px;
+  width: 18%;
   background-color: #ffffff;
   color: #5b5f77;
   padding: 11px 11px 11px 18px;
@@ -684,44 +682,40 @@ a {
   background-color: #52c5b6;
   top: -34px;
   left: 0;
-  clip-path: polygon(
-    0 0,
-    100% 0,
-    100% 100%,
-    0 calc(100% - 6vw)
-  );
+  clip-path: polygon(0 0, 100% 0, 100% 100%, 0 calc(100% - 6vw));
   transform: rotate(180deg);
 }
-.second_customer{
+.second_customer {
   margin-top: 120px;
   background-color: #ffffff;
 }
-.second_customer .customer_one_text{
+.second_customer .customer_one_text {
   background-color: white;
 }
-.second_customer .customer_one_text::after{
+.second_customer .customer_one_text::after {
   background-color: white;
 }
-.card_desgin .card_img_Desgin{
+.card_desgin .card_img_Desgin {
   width: 100%;
   overflow: hidden;
 }
-.card_desgin .card_img_Desgin img{
+.card_desgin .card_img_Desgin img {
   height: 294px;
   border-radius: 10px 10px 0px 0px;
 }
-#latest{
+#latest {
   padding-top: 100px;
   padding-bottom: 130px;
 }
 
-#footer_Section{
-  background-color: #30344E;
+#footer_Section {
+  background-color: #30344e;
   padding-top: 110px;
   padding-bottom: 30px;
 }
-.line{
+.line {
   margin-top: 15px;
   border-bottom: 1px solid #ffffff;
 }
 /*  */
+

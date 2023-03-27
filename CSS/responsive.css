@@ -129,5 +129,9 @@
   }
   .expert_info_cross .button_ex {
     bottom: -33px;
+    width: 16%;
+  }
+  .card_1::before {
+    bottom: -37px;
   }
 }
