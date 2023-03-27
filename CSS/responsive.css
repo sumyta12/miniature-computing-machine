@@ -1,0 +1,133 @@
+@media (min-width: 320px) and (max-width: 575px) {
+  .banner_right {
+    background-color: transparent;
+  }
+  .premium_text {
+    width: auto;
+    font-weight: 300;
+    font-size: 30px;
+  }
+  .banner_left {
+    padding-top: 186px;
+    padding-left: 27px !important;
+    background-color: #30344e;
+  }
+  .premium_text_p {
+    width: auto;
+    font-size: 14px;
+    line-height: 23px !important;
+  }
+  .button_design_raw {
+    padding: 8px 13px;
+    font-size: 15px !important;
+  }
+  .twopeople,
+  .pattern,
+  .gurbe {
+    display: none;
+  }
+  .peopleviewmain {
+    padding-left: 31px !important;
+    padding-top: 13px;
+  }
+  .box {
+    width: 57%;
+    height: 170px;
+    border-top-right-radius: 15px;
+    border-top-left-radius: 15px;
+    margin-top: 22px;
+  }
+  .review_xs_class {
+    margin-top: 20px;
+  }
+  #aboutus .about_img {
+    width: auto;
+    padding-top: 31px;
+    padding-bottom: 5px !important;
+    margin-bottom: -252px;
+  }
+  .aboutus_right {
+    padding-top: 2px;
+    padding-bottom: 2px;
+    padding-left: 2px;
+  }
+  .about_heding_text {
+    font-size: 14px;
+  }
+
+  .aboutus_right .premium_text {
+    width: auto !important;
+    font-size: 31px !important;
+    line-height: 34px !important;
+  }
+  .aboutus_right ul li span {
+    font-size: 15px;
+  }
+  #findservices .premium_text {
+    color: #30344e;
+    width: auto;
+  }
+  .find_total_main {
+    padding-top: 35px;
+  }
+  .sider_icone i {
+    padding: 11px 12px;
+  }
+  .bulletpoint span {
+    width: 10px;
+    height: 9px;
+  }
+  #Reliable_Solution {
+    background-color: #e5e5e5;
+    padding-top: 53px;
+    padding-bottom: 55px;
+  }
+
+  .meet_expo {
+    transform: translateY(-62px);
+  }
+  #Meet_with_Expert .meet_Top {
+    transform: translateY(32px);
+  }
+  #startup_digital {
+    padding-top: 30px;
+  }
+  .countingtruested_lead {
+    padding-top: 22px;
+  }
+  .message_top {
+    padding-top: 111px;
+  }
+  .customer_one_img {
+    top: -94px;
+    width: 21%;
+  }
+  .customer_one_text::after {
+    top: -21px;
+    left: 0;
+  }
+  .customer_left {
+    padding: 17px 20px;
+  }
+  .customer_left p {
+    line-height: 29px !important;
+  }
+  .nav_color_change {
+    background-color: #30344e;
+  }
+  .footer_ingo {
+    padding-top: 41px;
+  }
+  #Meet_with_Expert .meet_expo {
+    margin: auto;
+  }
+  .meet_Expert_image_desgin {
+    margin-bottom: 95px;
+  }
+  .expert_info {
+    bottom: -67px;
+  }
+  .expert_info_cross .button_ex {
+    bottom: -33px;
+  }
+}
