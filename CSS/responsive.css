@@ -41,15 +41,12 @@
     margin-top: 20px;
   }
   #aboutus .about_img {
-    width: auto;
-    padding-top: 31px;
-    padding-bottom: 5px !important;
-    margin-bottom: -252px;
+    width: 100%;
   }
   .aboutus_right {
-    padding-top: 2px;
+    padding-top: 5px;
     padding-bottom: 2px;
-    padding-left: 2px;
+    padding-left: 5px;
   }
   .about_heding_text {
     font-size: 14px;

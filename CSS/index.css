@@ -526,7 +526,7 @@ a {
   border-radius: 0px 10px 0px 0px;
   padding: 22px !important;
   position: absolute;
-  bottom: -123px;
+  bottom: -64px;
 }
 .expert_info h3 {
   font-family: popines;
@@ -550,8 +550,8 @@ a {
 .expert_info_cross .button_ex {
   position: absolute;
   right: 15px;
-  bottom: -63px;
-  width: 18%;
+  bottom: -4px;
+  width: 20%;
   background-color: #ffffff;
   color: #5b5f77;
   padding: 11px 11px 11px 18px;
