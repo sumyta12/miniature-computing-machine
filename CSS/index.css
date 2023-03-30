@@ -655,7 +655,7 @@ a {
   position: absolute;
   top: -80px;
   left: 9px;
-  width: 13%;
+  width: 15%;
   height: 67px;
   background-color: #c4c4c4;
   border: 1px solid #dce7fe;
@@ -728,10 +728,10 @@ a {
   justify-content: space-between !important;
 }
 .accordion-button i {
-  transform: rotate(45deg);
+  transform: rotate(1deg) ;
 }
-.collapse i{
-  transform: rotate(15deg) !important;
+.collapsed i {
+  transform: rotate(45deg);
 }
 .collapsed {
   background-color: transparent !important;
