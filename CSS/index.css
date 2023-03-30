@@ -599,10 +599,6 @@ a {
   transform: translateY(-133px);
 }
 
-/* accordian design */
-
-.accordion-button {
-}
 /* trused css start */
 #trusted_lead {
   background: url("./../pictures/Facts Section.png");
@@ -719,3 +715,32 @@ a {
 }
 /*  */
 
+/* accordian design */
+
+/* .disabled {
+  background-color: red !important;
+} */
+.accordion-button {
+  background-color: #52c5b6 !important;
+  color: #ffffff !important;
+
+  display: flex !important;
+  justify-content: space-between !important;
+}
+.accordion-button i {
+  transform: rotate(45deg);
+}
+.collapse i{
+  transform: rotate(15deg) !important;
+}
+.collapsed {
+  background-color: transparent !important;
+  color: #30344e !important;
+}
+.accordion-button::after {
+  display: none;
+}
+.accordion-item {
+  border: 1px solid #52c5b6 !important;
+  margin: 10px;
+}

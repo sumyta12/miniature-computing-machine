@@ -119,16 +119,16 @@
     margin: auto;
   }
   .meet_Expert_image_desgin {
-    margin-bottom: 95px;
+    margin-bottom: 200px;
   }
   .expert_info {
-    bottom: -67px;
+    bottom: -200px;
   }
   .expert_info_cross .button_ex {
-    bottom: -33px;
+    bottom: -152px;
     width: 16%;
   }
-  .card_1{
+  .card_1 {
     margin-bottom: 50px;
   }
   .card_1::before {
