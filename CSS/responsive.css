@@ -135,3 +135,53 @@
     bottom: -37px;
   }
 }
+@media (min-width: 576px) and (max-width: 767px) {
+  .banner_left {
+    padding-top: 136px;
+    padding-left: 26px !important;
+    background-color: #30344e;
+  }
+  .twopeople {
+    display: none;
+  }
+  .aboutus_right {
+    padding-top: 5px;
+    padding-bottom: 6px;
+  }
+  #aboutus .about_img {
+    padding-top: 64px;
+  }
+  .card_1 {
+    margin-bottom: 40px;
+  }
+  .card_1::before {
+    bottom: -39px;
+  }
+  .premium_text {
+    width: auto;
+    font-size: 30px !important;
+  }
+  #Reliable_Solution {
+    padding-bottom: 70px;
+    margin-bottom: 36px;
+  }
+  .meet_Expert_image_desgin {
+    margin-bottom: 70px;
+  }
+  .startup_digital {
+    margin-top: -136px;
+  }
+  .customer_left {
+    padding: 29px 26px;
+  }
+  .message_top {
+    margin-top: 100px !important;
+  }
+  .card_desgin {
+    text-align: center;
+    margin-bottom: 30px;
+  }
+  #latest {
+    padding-bottom: 20px;
+  }
+}
