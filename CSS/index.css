@@ -728,7 +728,7 @@ a {
   justify-content: space-between !important;
 }
 .accordion-button i {
-  transform: rotate(1deg) ;
+  transform: rotate(1deg);
 }
 .collapsed i {
   transform: rotate(45deg);
@@ -743,4 +743,13 @@ a {
 .accordion-item {
   border: 1px solid #52c5b6 !important;
   margin: 10px;
+}
+.nav-link {
+  
+  transition: transform 0.5s ease-in-out;
+}
+.nav-link:hover {
+  
+  border-bottom: 1px solid #52c5b6 !important;
+  transform-origin: left right !important;
 }
